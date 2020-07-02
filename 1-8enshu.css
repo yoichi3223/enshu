@@ -1,0 +1,14 @@
+main{
+	width: 960px;
+	margin: 50px auto;
+}
+.list{
+	margin-bottom: 50px;
+}
+.list-item{
+	padding: 20px ;
+	list-style: none;
+}
+.list-item:nth-child(odd){
+	background-color:#eee;
+}
